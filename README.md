@@ -39,16 +39,6 @@ src/
 └── utils/          # Helper functions
 ```
 
-## Deployment
-
-### Vercel (Recommended)
-1. Push this repo to GitHub
-2. Go to [vercel.com](https://vercel.com) → Import Project
-3. Select the repo, leave all defaults
-4. Click **Deploy**
-
-See `DEPLOYMENT.md` for detailed Vercel setup.
-
 ## Pages
 
 1. **Header** — Logo, nav with About Us dropdown, CTA button
